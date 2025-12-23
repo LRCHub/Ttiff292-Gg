@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "小さな惑星",
+  "base_artist": "King Gnu",
+  "createdAt": "2025-12-23T09:02:50.907613Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "小さな惑星",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/01_小さな惑星_King_Gnu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "小さな惑星",
+      "artist": "King Gnu",
+      "has_synced": false,
+      "path": "select/pl_01_小さな惑星_King_Gnu.txt"
+    }
+  ]
+}
